@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ajv": "^6.5.5",
-    "electron": "^3.0.9",
+    "electron": "^11.5.0",
     "electron-packager": "^12.2.0",
     "element-ui": "^2.4.9",
     "file-saver": "^2.0.0-rc.4",
